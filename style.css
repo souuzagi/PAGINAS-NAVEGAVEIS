@@ -1,0 +1,16 @@
+body{
+    background-color:rgb(216, 230, 225);
+    color: rgb(208, 69, 44);
+    width: 80%;
+    margin: 0 auto;
+}
+a{
+    color: rgb(3, 128, 86);
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+#principal{
+    
+}
